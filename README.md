@@ -1,4 +1,4 @@
-# seleniumPageObjectSample
+# SeleniumPageObjectSample
 
 
 O projeto é um modelo reduzido de um projeto no padrão PageObject com scripts de automação em Java e utilizando a ferramenta Selenium.
