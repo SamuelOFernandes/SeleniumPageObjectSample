@@ -66,7 +66,7 @@ public class AdicionarProdutosAoCarrinhoDeComprasTest {
 
 
     @Test
-    public void testAdicionarProdutosDoArquivoAoCarrinho(
+    public void testBuscarProdutosDoArquivo(
             @Param(name = "produto") String produto,
             @Param(name = "mensagemEsperada") String mensagemEsperada
     ) {
